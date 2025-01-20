@@ -71,6 +71,7 @@ def main():
     print("Thank you! Have a nice day! ")
     print("*******************")
 
+
 if __name__ == '__main__':
     main()
     
