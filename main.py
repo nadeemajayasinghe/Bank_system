@@ -36,6 +36,7 @@ def withdraw(balance):
         return 0
     else:
         return amount
+        
 
 def main():
     balance = 0
