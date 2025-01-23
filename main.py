@@ -10,6 +10,7 @@ def deposit():
     amount = float(input("Enter an amount to be deposited: "))
     print("*******************")
 
+
     if amount < 0:
         print("*******************")
         print("That isn't a valid amount")
