@@ -18,6 +18,7 @@ def deposit():
         return 0
     else:
         return amount
+    
 
 def withdraw(balance):
     print("*******************")
