@@ -40,6 +40,7 @@ def withdraw(balance):
         return amount
         
 
+
 def main():
     balance = 0
     is_running = True
